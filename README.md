@@ -1,7 +1,7 @@
 # s3-uploader
 AWS S3 uploader
 
-https://travis-ci.org/giang-pham/s3-uploader.svg?branch=master
+[![Build Status](https://travis-ci.org/giang-pham/s3-uploader.svg?branch=master)](https://travis-ci.org/giang-pham/s3-uploader)
 
 Run with local profile credentials
 ```~/.aws/credentials```
